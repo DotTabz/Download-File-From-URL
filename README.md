@@ -1,5 +1,5 @@
 # About
-This is a base on how to download a file from url meant to be used for my series on YouTube. This was made to avoid me having to recode all code from each video and so you can copy and paste :)
+This is a simple base on how to download a file from url meant to be used for my series on YouTube. This was made to avoid me having to recode all code from each video and so you can copy and paste :)
 
 # Video
 - Soon
